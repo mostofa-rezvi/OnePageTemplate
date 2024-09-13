@@ -14,40 +14,39 @@ Below are some screenshots of the template:
 
 
   **Carousel 1**
-![1 Image-header1](https://github.com/user-attachments/assets/375bcffe-42dc-4b05-a018-3e3935d9dd70)
+  ![1 Image-header1](https://github.com/user-attachments/assets/1318f4a2-0cdf-4b09-9702-48787aa448b8)
 
-  
+
   **Carousel 2**
-![2 Image-header2](https://github.com/user-attachments/assets/f732f8c7-34e4-4ac9-9230-d040a9035587)
+![2 Image-header2](https://github.com/user-attachments/assets/cb6e2c27-3b9d-4c47-8126-b616dca835ab)
 
   
   **About**
-![3 Image-About](https://github.com/user-attachments/assets/63ce0337-03ec-4391-b2dd-35401119ad95)
+![3 Image-About](https://github.com/user-attachments/assets/7f278953-9586-4e2d-b6ad-7f0f3eb8beb0)
 
 
   **Creative Works**
-![4 Image-Random](https://github.com/user-attachments/assets/6ae1ff09-7a14-4922-b87b-64201374d58f)
+![4 Image-Random](https://github.com/user-attachments/assets/83b04544-8dcc-48b6-8af6-11b4da051f73)
 
 
   **Who We Are**
-![5 Image-Who](https://github.com/user-attachments/assets/8fcec852-80f1-43da-a07e-ee1d1d6d1456)
+![5 Image-Who](https://github.com/user-attachments/assets/99e802c6-34c4-4caa-b8bf-90e34603f79a)
 
 
   **What We Do**
-![6 Image-what](https://github.com/user-attachments/assets/6aa8ac50-699e-4193-9f41-98ce9e02a65e)
+![6 Image-what](https://github.com/user-attachments/assets/f9f5d5f1-0a36-4c79-ada5-1d5f59f1abf6)
 
 
   **Portfolio Web Page**
-![7 Image-Portfolio](https://github.com/user-attachments/assets/4b7a2362-b542-43fe-b73a-807359736cd0)
+![7 Image-Portfolio](https://github.com/user-attachments/assets/a1ed5781-071e-44be-9ecc-4bf33856ade6)
 
 
   **Contact Us Form**
-![8 Image-Contact](https://github.com/user-attachments/assets/f8d0a425-f439-482b-922f-616fabfaa48a)
+![8 Image-Contact](https://github.com/user-attachments/assets/0f298d2d-4abc-410b-9e6d-cda70601e588)
 
 
   **Footer**
-![9 Image-footer](https://github.com/user-attachments/assets/f2c1afca-8c0d-42f6-a93b-4220e82d4bad)
-
+![9 Image-footer](https://github.com/user-attachments/assets/f8cf5374-7985-45f3-b395-85a799bc4a29)
 
 
 ## Features
@@ -99,4 +98,4 @@ For any questions or feedback, reach out to [mostofa.aminur.rezvi@gmail.com](mai
 
 
 ## Full Template View
-![Full Web Page](https://github.com/user-attachments/assets/4c787ba0-32ba-4e45-8495-03e8de64931e)
+![Full Web Page](https://github.com/user-attachments/assets/608023bb-662d-4a3c-86e1-f9ca57aa1fbf)
